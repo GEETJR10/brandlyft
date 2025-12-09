@@ -1,0 +1,34 @@
+*{
+    margin: 0 px;
+    padding: 0 px;
+}
+body {
+  font-family: 'Inter', sans-serif;
+}
+
+h1, h2, h3, h4, h5, h6 {
+  font-family: 'Playfair Display', serif;
+  color: black;
+}
+#navbarSupportedContent{
+    font-size: 18px;
+    font-weight: bold;
+    
+}
+.carousel-item img {
+    height: 500px;       /* minimum height */
+    width: 100%;
+    object-fit: cover;
+    opacity: 0.8;
+}
+.container2 h1{
+   align-items: center;
+    justify-content: center;
+    text-align: center;
+}
+
+  .card-img-top {
+    height: 250px;       /* adjust as needed */
+    width: 100%;
+    object-fit: cover;
+  }
